@@ -118,7 +118,7 @@ const Hero = () => {
               </div>
               <div className="flex-col justify-start items-start gap-1 inline-flex">
                 <div className="text-black text-xs font-normal leading-none tracking-tight">
-                  Launch UtupiaBot on
+                  Follow UTOPIABot on
                 </div>
                 <div className="text-black text-base font-bold leading-snug tracking-tight">
                   TWITTER
