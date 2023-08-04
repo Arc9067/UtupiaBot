@@ -15,8 +15,8 @@ const Work = () => {
             How Does It Work?
           </h1>
           <p className="max-w-[456px] text-white text-xl font-normal leading-loose tracking-tight">
-            Setting up your Wagie is quite straightforward. Simply message the
-            bot on Telegram or Discord and you're good to go.
+            Setting up your Utopia Bot is quite straightforward. Simply interact
+            with the bot on Telegram and you're good to go.
           </p>
         </article>
 
