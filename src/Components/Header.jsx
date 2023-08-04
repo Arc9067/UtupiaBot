@@ -7,7 +7,11 @@ const Header = () => {
         <h1 className="text-white text-2xl font-extrabold leading-[33.60px] tracking-wide">
           UTOPIA BOT
         </h1>
-        <a href="" className="justify-between items-start gap-8 lg:flex hidden">
+        <a
+          href="https://utopiabot.gitbook.com/"
+          target="_blank"
+          className="justify-between items-start gap-8 lg:flex hidden"
+        >
           <div className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight">
             Gitbook
           </div>
