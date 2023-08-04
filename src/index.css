@@ -1,0 +1,29 @@
+@import url("https://fonts.cdnfonts.com/css/inter");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  #hero {
+    background: url(./assets/heroBg.svg) center center no-repeat;
+    background-size: cover;
+  }
+
+  .cardFeatures {
+    border-radius: 8px;
+    border: 2px solid rgba(255, 112, 0, 0);
+    background: #121228;
+  }
+
+  #Feature2,
+  #Mics,
+  #work {
+    background: url(./assets/pattern.png) center center no-repeat;
+  }
+
+  .join {
+    background: url(./assets/join.png) center center no-repeat;
+    background-size: cover;
+  }
+}
