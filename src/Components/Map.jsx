@@ -9,9 +9,9 @@ const Map = () => {
         </h1>
         <div className="justify-start items-stretch gap-6 grid grid-cols-1 lg:grid-cols-3">
           <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-start gap-[35px] inline-flex">
-            <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
+            {/* <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 1
-            </div>
+            </div> */}
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 V2 website including claim page
@@ -34,9 +34,9 @@ const Map = () => {
             </div>
           </div>
           <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
-            <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
+            {/* <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 2
-            </div>
+            </div> */}
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Security with 2FA (two factor auth using google auth on your
@@ -60,9 +60,9 @@ const Map = () => {
             </div>
           </div>
           <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col items-start gap-[33px] inline-flex">
-            <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
+            {/* <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 3
-            </div>
+            </div> */}
             <div className=" flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Grid trading (5 tokens at same time)
