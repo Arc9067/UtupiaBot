@@ -33,6 +33,26 @@ const Map = () => {
               </div>
             </div>
           </div>
+
+          <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col items-start gap-[33px] inline-flex">
+            {/* <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
+              Phase 3
+            </div> */}
+            <div className=" flex-col justify-start items-start gap-8 inline-flex">
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Grid trading (5 tokens at same time)
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Buy/Sell orders by price & Mcap
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Alpha Channel & Alpha Bot with fast snipe shortcut
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Dedicated phone app (Android & IOS)
+              </div>
+            </div>
+          </div>
           <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
             {/* <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 2
@@ -56,25 +76,6 @@ const Map = () => {
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Snipe in presale
-              </div>
-            </div>
-          </div>
-          <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col items-start gap-[33px] inline-flex">
-            {/* <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
-              Phase 3
-            </div> */}
-            <div className=" flex-col justify-start items-start gap-8 inline-flex">
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Grid trading (5 tokens at same time)
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Buy/Sell orders by price & Mcap
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Alpha Channel & Alpha Bot with fast snipe shortcut
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Dedicated phone app (Android & IOS)
               </div>
             </div>
           </div>
