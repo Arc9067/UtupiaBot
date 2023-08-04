@@ -11,47 +11,43 @@ const LongFeatures = () => {
           <div className="px-[23px] pt-[42px] pb-[61.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 ETH: UniSwap V2
+                🤖ETH: UniSwap V2
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 BSC: PancakeSwap V2
+                🤖BSC: PancakeSwap V2
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Easy and intuitive user interface
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Fast management and monitoring <br />
-                of all concomitant snipes
+                🤖 Fast management and monitoring of all concomitant snipes
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Auto-configure snipe with method id <br />
-                and limit on transactions;
+                🤖 Auto-configure snipe with method id and limit on transactions
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Auto-detection of Pairs <br />
-                (ETH/BNB, USDT, USDC, DAI)
+                🤖 Auto detection of Chain, Dex & Pairs
               </div>
             </div>
           </div>
           <div className="pl-[36.62px] pr-[35.38px] pt-[28.39px] pb-[21.21px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Protection against high fees & <br />
-                honeypots
+                🤖 Protection : Anti HP, Anti High fees, Anti RUG, Anti
+                Blacklist
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖Snipe using our private router and <br />
-                get same features as sniping with <br />
-                contracts
+                🤖 Snipe using our private router and get same features as
+                sniping with contracts
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 5 wallets from start
+                🤖 5 wallets & 5 concomitant snipes
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Anti-Mev RPC
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Snipe liquidity on block 0
+                🤖 Snipe liquidity & Open trading on block 0
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Snipe on multiple functions calls
@@ -64,25 +60,25 @@ const LongFeatures = () => {
           <div className="pl-[26.25px] pr-[25.75px] pt-[28.39px] pb-[75.21px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Multiple Buys & Sells (make multiple <br />
-                buys in the same transaction hash)
+                🤖 Multiple Buys & Sells using 1 transaction
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Sell with profits
+                🤖 Sell with profit
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Stop loss
+                🤖 Trailing & Stop loss
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Instant buy on contract paste
+                🤖 Instant buy on token address paste
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Withdraw Eth/Token from sniping <br />
-                wallet to main wallet
+                🤖 Withdraw Eth/Token from sniping wallet to main wallet
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Security layer on private key and <br />
-                transactions
+                🤖 Security layer on private key and transactions
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Referral Bot
               </div>
             </div>
           </div>
