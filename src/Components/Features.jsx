@@ -15,7 +15,7 @@ const Features = () => {
           Features
         </h1>
         <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 justify-between gap-8">
-          <article className="py-14 px-8 flex flex-col gap-8 bg-[#121228] cardFeatures">
+          <article className="p-8 flex flex-col gap-8 bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={speed} alt="" />
               Speed
@@ -27,18 +27,7 @@ const Features = () => {
               <br />
             </p>
           </article>
-          <article className="p-8 tracking-[0.3px] flex flex-col gap-8 bg-[#121228] cardFeatures">
-            <h1 className="flex font-bold items-center gap-6 text-xl">
-              <img src={user} alt="" />
-              User Friendly
-            </h1>
-            <p className=" text-white text-base font-normal leading-loose tracking-tight">
-              While designing Utopia we took the best features from all the bots
-              in the market and combined them to bring you the best possible
-              experience.
-              <br />
-            </p>
-          </article>
+
           <article className="p-8 tracking-[0.3px] flex flex-col gap-8 bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={security} alt="" />
@@ -50,6 +39,18 @@ const Features = () => {
               practices in encryption and protection. We are also the first to
               implement Google 2FA for wallet-to-wallet transfers and to reveal
               your private key.
+            </p>
+          </article>
+          <article className="p-8 tracking-[0.3px]  flex flex-col gap-8 bg-[#121228] cardFeatures">
+            <h1 className="flex font-bold items-center gap-6 text-xl">
+              <img src={user} alt="" />
+              User Friendly
+            </h1>
+            <p className=" text-white text-base font-normal leading-loose tracking-tight">
+              While designing Utopia we took the best features from all the bots
+              in the market and combined them to bring you the best possible
+              experience.
+              <br />
             </p>
           </article>
           <article className="p-8 tracking-[0.3px] flex flex-col gap-8 self-start bg-[#121228] cardFeatures">
