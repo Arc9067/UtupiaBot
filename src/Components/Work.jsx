@@ -50,7 +50,8 @@ const Work = () => {
               </div>
             </a>
             <a
-              href=""
+              href="https://t.me/utopiabotportal"
+              target="_blank"
               className="pl-[50.12px] w-full pr-[62.88px] pt-[76.62px] pb-[73.68px] bg-[#121228] rounded-2xl flex-col justify-center items-center flex"
             >
               <div className="self-stretch w-full flex-col justify-start items-start gap-[30.69px] inline-flex">
