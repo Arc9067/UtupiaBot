@@ -23,7 +23,11 @@ const Hero = () => {
 
         <img src={logo} alt="" />
         <div className=" h-[59px] justify-start items-start gap-3 flex-col md:flex-row flex">
-          <div className="w-[226px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex">
+          <a
+            href="https://t.me/utopiabotportal"
+            target="_blank"
+            className="w-[226px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex"
+          >
             <div className="justify-center items-center gap-3 inline-flex">
               <div className="w-6 h-6 relative">
                 <div className="w-6 h-6 left-0 top-0 absolute">
@@ -79,7 +83,7 @@ const Hero = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </a>
           <div className="w-[226px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex">
             <div className="justify-center items-center gap-3 inline-flex">
               <div className="w-[30.88px] h-6 relative">
