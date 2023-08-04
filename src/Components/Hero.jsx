@@ -85,7 +85,7 @@ const Hero = () => {
             </div>
           </a>
           <a
-            href="twitter.com/Utopiabots"
+            href="htts://twitter.com/Utopiabots"
             target="_blank"
             className="w-[226px] h-[59px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex"
           >
