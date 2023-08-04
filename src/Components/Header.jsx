@@ -12,7 +12,8 @@ const Header = () => {
             Gitbook
           </div>
           <a
-            href=""
+            href="https://t.me/utopiabotportal"
+            target="_blank"
             className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight"
           >
             Telegram
