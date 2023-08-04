@@ -18,12 +18,13 @@ const Header = () => {
           >
             Telegram
           </a>
-          <div className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight">
-            Changelog
-          </div>
-          <div className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight">
+
+          <a
+            href=""
+            className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight"
+          >
             Documnetation
-          </div>
+          </a>
         </a>
       </nav>
     </header>
