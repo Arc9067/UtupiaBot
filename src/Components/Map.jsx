@@ -7,91 +7,74 @@ const Map = () => {
         <h1 className="text-white text-5xl font-bold text-center leading-[67.20px] tracking-wide">
           Roadmap
         </h1>
-        <div className="justify-start items-start gap-6 grid grid-cols-1 lg:grid-cols-3">
-          <div className="pl-[27px] pr-[47px] pt-8 pb-[68.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-start gap-[35px] inline-flex">
+        <div className="justify-start items-stretch gap-6 grid grid-cols-1 lg:grid-cols-3">
+          <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-start gap-[35px] inline-flex">
             <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 1
             </div>
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖ETH: UniSwap V2
+                🤖 V2 website including claim page
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖BSC: PancakeSwap V2
+                🤖 New Chains & Markets
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Easy and intuitive user interface
+                🤖 ETH: UniSwap V3
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Fast management and monitoring of all concomitant snipes
+                🤖 BSC: PancakeSwap V3
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Auto-configure snipe with method id and limit on
-                transactions;
+                🤖 ARBITRUM:  UniSwap V3, Camelot
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Auto detection of Chain, Dex & Pairs
+                🤖 BASE :  CBSWAP
               </div>
             </div>
           </div>
-          <div className="pl-6 pr-[17px] pt-8 pb-[26.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
+          <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
             <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 2
             </div>
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Protection : Anti HP, Anti High fees; Anti RUG, Anti
-                Blacklist
+                🤖 Security with 2FA (two factor auth using google auth on your
+                phone)
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Snipe using our private router and get same features as
-                sniping with contracts
+                🤖 Auto detection of Chain, Dex & Pairs
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 5 wallets & 5 concomitant snipes
+                🤖 Unlimited wallets
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Anti-Mev RPC
+                🤖 Copy trading with private transaction detection
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Snipe liquidity & Open trading on block 0
+                🤖 BloxRoute integration
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Snipe on multiple functions calls
+                🤖 Snipe in presale
               </div>
             </div>
           </div>
-          <div className="pl-6 pr-[17px] pt-8 pb-[26.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
+          <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col items-start gap-[33px] inline-flex">
             <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 3
             </div>
-            <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
+            <div className=" flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Snipe with block delay
+                🤖 Grid trading (5 tokens at same time)
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Multiple Buys & Sells using 1 transaction
+                🤖 Buy/Sell orders by price & Mcap
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Sell with profit
+                🤖 Alpha Channel & Alpha Bot with fast snipe shortcut
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Trailing & Stop loss
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Instant buy on token address paste
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Withdraw Eth/Token from sniping wallet to main wallet
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Security layer on private key and transactions
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Referral Bot
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Support 24/7
+                🤖 Dedicated phone app (Android & IOS)
               </div>
             </div>
           </div>
