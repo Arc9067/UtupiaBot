@@ -11,10 +11,10 @@ const Mics = () => {
 
           <div className="flex flex-col gap-5 items-center justify-center mt-6">
             <h1 className="text-center text-white text-2xl md:text-3xl font-bold leading-[44.80px] tracking-wide">
-              Total Supply: 100,000,000 UTOPIA BOT
+              Total supply: 100.000.000 mil
             </h1>
             <h1 className="text-center text-white text-2xl md:text-3xl font-bold leading-[44.80px] tracking-wide">
-              Circulating Supply: 90,000,000 UTOPIA BOT
+              Circulating supply: 90% (90mil)
             </h1>
           </div>
 
@@ -37,7 +37,8 @@ const Mics = () => {
               </svg>
               <div>
                 <span className="font-bold">Liq ETH:</span> 2 eth locked after
-                launch 90 days (at higher mcaps lock will be extended)
+                launch 90 days in Unicrypt (at higher mcaps lock will be
+                extended)
               </div>
             </li>
             <li
@@ -57,7 +58,7 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Price on listing:</span> 2 eth
+                <span className="font-bold">Price on listing: </span>{" "}
                 0.000000022 ETH / 1 UB
               </div>
             </li>
@@ -118,7 +119,7 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Final tax:</span> 2%
+                <span className="font-bold">Tax:</span> 5/5%
               </div>
             </li>
 
@@ -158,7 +159,10 @@ const Mics = () => {
                   fill="white"
                 />
               </svg>
-              <div>6% team (3 devs, 2% each) locked 30 days before launch.</div>
+              <div>
+                6% team (3 devs, 2% each excluded from reward) locked 90 days
+                before launch.
+              </div>
             </li>
             <li
               className="flex items-center gap-4
@@ -176,7 +180,10 @@ const Mics = () => {
                   fill="white"
                 />
               </svg>
-              <div>4% marketing</div>
+              <div>
+                4% marketing (public sheet in google drive with every expenses
+                on marketing)
+              </div>
             </li>
           </ul>
         </div>
