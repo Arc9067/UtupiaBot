@@ -7,7 +7,7 @@ const LongFeatures = () => {
         <h1 className="text-white text-5xl font-bold text-center leading-[67.20px] tracking-wide">
           A Short List of Features
         </h1>
-        <div className="w-full justify-start items-start gap-6 grid lg:grid-cols-3 grid-cols-1">
+        <div className="w-full justify-start items-stretch gap-6 grid lg:grid-cols-3 grid-cols-1">
           <div className="px-[23px] pt-[42px] pb-[61.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
@@ -30,7 +30,7 @@ const LongFeatures = () => {
               </div>
             </div>
           </div>
-          <div className="pl-[36.62px] pr-[35.38px] pt-[28.39px] pb-[21.21px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-center inline-flex">
+          <div className="px-[23px] pt-[42px] pb-[61.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Protection : Anti HP, Anti High fees, Anti RUG, Anti
@@ -57,7 +57,7 @@ const LongFeatures = () => {
               </div>
             </div>
           </div>
-          <div className="pl-[26.25px] pr-[25.75px] pt-[28.39px] pb-[75.21px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-center inline-flex">
+          <div className="px-[23px] pt-[42px] pb-[61.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Multiple Buys & Sells using 1 transaction
