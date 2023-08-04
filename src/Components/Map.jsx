@@ -14,22 +14,23 @@ const Map = () => {
             </div>
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 V2 website including claim page
+                🤖ETH: UniSwap V2
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 New Chains & Markets
+                🤖BSC: PancakeSwap V2
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 ETH: UniSwap V3
+                🤖 Easy and intuitive user interface
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖BSC: PancakeSwap V3
+                🤖 Fast management and monitoring of all concomitant snipes
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖ARBITRUM: UniSwap V3, Camelot
+                🤖 Auto-configure snipe with method id and limit on
+                transactions;
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖BASE : CBSWAP
+                🤖 Auto detection of Chain, Dex & Pairs
               </div>
             </div>
           </div>
@@ -39,49 +40,59 @@ const Map = () => {
             </div>
             <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Security with 2FA (two factor auth <br />
-                using google auth on your phone)
+                🤖 Protection : Anti HP, Anti High fees; Anti RUG, Anti
+                Blacklist
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Auto detection of Chain, Dex & Pairs
+                🤖 Snipe using our private router and get same features as
+                sniping with contracts
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Unlimited wallets
+                🤖 5 wallets & 5 concomitant snipes
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Copy trading with private transaction <br />
-                detection
+                🤖 Anti-Mev RPC
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 BloxRoute integration
+                🤖 Snipe liquidity & Open trading on block 0
               </div>
               <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Snipe in presale
+                🤖 Snipe on multiple functions calls
               </div>
             </div>
           </div>
-          <div className="w-[360px] h-[461.60px] relative bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px]">
-            <div className="left-[22px] top-[98px] absolute flex-col justify-start items-start gap-8 inline-flex">
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Grid trading (5 tokens at same time)
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Buy/Sell orders by price & Mcap
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Alpha Channel & Alpha Bot with <br />
-                fast snipe shortcut
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Web interface that will communicate <br />
-                with the Telegram bot
-              </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 Dedicated phone app (Android & IOS)
-              </div>
-            </div>
-            <div className="left-[25px] top-[32px] absolute text-white text-2xl font-bold leading-[33.60px] tracking-wide">
+          <div className="pl-6 pr-[17px] pt-8 pb-[26.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
+            <div className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
               Phase 3
+            </div>
+            <div className="self-stretch flex-col justify-start items-start gap-8 inline-flex">
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Snipe with block delay
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Multiple Buys & Sells using 1 transaction
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Sell with profit
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Trailing & Stop loss
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Instant buy on token address paste
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Withdraw Eth/Token from sniping wallet to main wallet
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Security layer on private key and transactions
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Referral Bot
+              </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 Support 24/7
+              </div>
             </div>
           </div>
         </div>
