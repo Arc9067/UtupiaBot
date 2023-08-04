@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="py-10 w-full text-white">
       <div className="container flex flex-col justify-center items-center gap-10">
-        <div className="grid w-full gap-y-10 grid-cols-1 md:grid-cols-4 justify-between gap-x-5">
+        <div className="grid w-full gap-y-10 grid-cols-1 md:grid-cols-3 justify-between gap-x-5">
           <img src={footerLogo} alt="" />
 
           <div className="w-[93px] h-[214px] flex-col justify-start items-start gap-8 inline-flex">
@@ -78,14 +78,6 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <a
-            href
-            className="w-[187px] h-[54px] px-8 py-4 rounded shadow border border-white justify-center items-center gap-2.5 inline-flex"
-          >
-            <div className="text-white text-base font-bold leading-snug tracking-tight">
-              PUPLIC GROUP
-            </div>
-          </a>
         </div>
 
         <div className="text-white text-xl font-normal leading-9">
