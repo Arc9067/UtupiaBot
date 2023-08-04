@@ -20,10 +20,10 @@ const Header = () => {
           </a>
 
           <a
-            href=""
+            href="https://twitter.com/Utopiabots"
             className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight"
           >
-            Documnetation
+            Twitter
           </a>
         </a>
       </nav>
