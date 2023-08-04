@@ -72,7 +72,6 @@ const Features = () => {
                 This will be on top of the existing updates as part of the
                 roadmap.
               </li>
-              <li>Fee structure/ revenue mechanism</li>
             </ul>
           </article>
           <article className="p-8 tracking-[0.3px] flex flex-col gap-8 self-start bg-[#121228] cardFeatures">
