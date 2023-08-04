@@ -102,7 +102,7 @@ const Features = () => {
           <article className="p-8 tracking-[0.3px] flex flex-col gap-8 self-start bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={redistribution} alt="" />
-              Redistribution Revenue
+              Redistributed Revenue
             </h1>
             <ul className="flex gap-4 flex-col list-disc">
               <li>
