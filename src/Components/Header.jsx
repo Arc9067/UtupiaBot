@@ -21,14 +21,6 @@ const Header = () => {
             Documnetation
           </div>
         </div>
-        <a
-          href
-          className="w-[187px] h-[54px] px-8 py-4 rounded shadow border border-white justify-center items-center gap-2.5 inline-flex"
-        >
-          <div className="text-white text-base font-bold leading-snug tracking-tight">
-            PUPLIC GROUP
-          </div>
-        </a>
       </nav>
     </header>
   );
