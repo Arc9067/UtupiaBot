@@ -70,7 +70,7 @@ const Features = () => {
           </div>
         </h1>
         <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 items-stretch justify-between gap-8">
-          <article className="p-8 tracking-[0.3px] flex flex-col gap-8 self-start bg-[#121228] cardFeatures">
+          <article className="p-8 tracking-[0.3px] flex flex-col gap-8 bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={dao} alt="" />
               Utopia DAO
@@ -120,7 +120,7 @@ const Features = () => {
               </li>
             </ul>
           </article>
-          <article className="p-8 tracking-[0.3px] flex flex-col gap-8 self-start bg-[#121228] cardFeatures">
+          <article className="p-8 tracking-[0.3px] flex flex-col gap-8 bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={redistribution} alt="" />
               Redistributed Revenue
