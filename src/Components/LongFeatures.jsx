@@ -5,7 +5,7 @@ const LongFeatures = () => {
     <section className="py-16 w-full relative" id="Feature2">
       <div className="container flex flex-col justify-center items-center gap-20">
         <h1 className="text-white text-5xl font-bold text-center leading-[67.20px] tracking-wide">
-          A Short List of Features
+          Utopia Sniper Bot V1 Features
         </h1>
         <div className="w-full justify-start items-stretch gap-6 grid lg:grid-cols-3 grid-cols-1">
           <div className="px-[23px] pt-[42px] pb-[61.60px] bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-center inline-flex">
