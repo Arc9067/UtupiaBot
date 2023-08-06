@@ -16,8 +16,8 @@ const App = () => {
       <Hero />
       <Features />
       <LongFeatures />
-      <Mics />
       <Map />
+      <Mics />
       <Work />
       <Join />
       <Footer />

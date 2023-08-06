@@ -4,8 +4,8 @@ const Map = () => {
   return (
     <section className="py-16 w-full relative" id="Feature2">
       <div className="container flex flex-col justify-center items-center gap-20">
-        <h1 className="text-white text-5xl font-bold text-center leading-[67.20px] tracking-wide">
-          Roadmap
+        <h1 className="text-white text-4xl font-bold text-center leading-[67.20px] tracking-wide">
+          Utopia Sniper Bot Features Implementation
         </h1>
         <div className="justify-start items-stretch gap-6 grid grid-cols-1 lg:grid-cols-3">
           <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-start items-start gap-[35px] inline-flex">
