@@ -99,21 +99,24 @@ const Features = () => {
             </h1>
             <ul className="flex gap-4 flex-col list-disc">
               <li>
-                Users of Utopia bot are automatically subject to a 1% fee on all
-                transactions. 50% of this fee goes into development and 50% goes
-                into the reward pool.
+                Utopia Bot token has a 5/5% transaction tax on its native token,
+                incentivizing users to hold and contribute to the ecosystem.
               </li>
               <li>
-                0.5% Holders have 0% Buy fees and a 0.75% fee on all other
-                transactions, including snipes.
+                Utopia sniper bot has a 1% fee for non holders and the following
+                benefits for UB holders:
               </li>
               <li>
-                1% Holders have 0% Buy fee and a 0.5% fee on all other
-                transactions, including snipes.
+                0.5% UB holders have 0% Buy fees and a 0.75% fee on all other
+                transactions.
               </li>
               <li>
-                2% Holders have 0% Buy fee and a 0.25% fee on all other
-                transactions, including snipes
+                1% UB holders have a 0% Buy fee and a 0.5% fee on all other
+                transactions.
+              </li>
+              <li>
+                2% UB holders have a 0% Buy fee and a 0.25% fee on all other
+                transactions.
               </li>
             </ul>
           </article>
