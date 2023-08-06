@@ -87,10 +87,10 @@ const Hero = () => {
           <a
             href="https://twitter.com/Utopiabots"
             target="_blank"
-            className="w-[226px] h-[59px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex"
+            className="w-[226px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex"
           >
             <div className="justify-center items-center gap-3 inline-flex">
-              <div className="w-[29.40px] h-6 relative">
+              <div className="w-6 h-6 relative">
                 <svg
                   width="30"
                   height="25"
