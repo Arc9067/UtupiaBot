@@ -51,6 +51,9 @@ const Map = () => {
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Dedicated phone app (Android & IOS)
               </div>
+              <div className="text-white text-base font-normal leading-snug tracking-tight">
+                🤖 BloxRoute integration
+              </div>
             </div>
           </div>
           <div className="p-10 bg-white bg-opacity-10 rounded-lg backdrop-blur-[32px] flex-col justify-end items-start gap-[33px] inline-flex">
@@ -71,9 +74,7 @@ const Map = () => {
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Copy trading with private transaction detection
               </div>
-              <div className="text-white text-base font-normal leading-snug tracking-tight">
-                🤖 BloxRoute integration
-              </div>
+
               <div className="text-white text-base font-normal leading-snug tracking-tight">
                 🤖 Snipe in presale
               </div>
