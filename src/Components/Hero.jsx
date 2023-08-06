@@ -13,13 +13,13 @@ const Hero = () => {
           The Most Dynamic TG <br />{" "}
           <span className="text-[#FF7000]">Trading Bot</span>
         </h1>
-        <p className="max-w-[823px] text-center text-white text-base font-normal leading-loose tracking-tight">
+        {/* <p className="max-w-[823px] text-center text-white text-base font-normal leading-loose tracking-tight">
           We built the Utopia bot to ensure we have maximum speed, security and
           efficiency while trading. It is a cutting-edge trading bot designed
           for speed, precision, and maximum efficiency. With its lightning-fast
           execution and user-friendly interface, Utopia gives you the edge you
           need to trade at your best.
-        </p>
+        </p> */}
 
         <img src={logo} alt="" />
         <div className=" h-[59px] justify-start items-start gap-3 flex-col md:flex-row flex">
