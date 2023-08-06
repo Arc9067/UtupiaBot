@@ -60,8 +60,8 @@ const Features = () => {
         </div>{" "}
         <h1 className="">
           <div className="max-w-[976px] text-center text-white text-[32px] font-semibold tracking-wide">
-            UB is the goverance token for Utopia DAO, Revenue Mechanism
-            andRedistributed Revenue
+            UB is the goverance token for Utopia DAO, Revenue Mechanism and
+            Redistributed Revenue
           </div>
         </h1>
         <h1 className="">
