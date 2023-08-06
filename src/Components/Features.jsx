@@ -11,8 +11,12 @@ const Features = () => {
   return (
     <section className="py-16 w-full relative">
       <div className="container flex flex-col justify-center items-center gap-20">
-        <h1 className="text-white text-5xl font-bold leading-[67.20px] tracking-wide">
-          Features
+        <h1 className="text-white text-2xl text-center font-bold leading-[45.20px] tracking-wide">
+          We built the Utopia bot to ensure we have maximum speed, security and
+          efficiency while trading. It is a cutting-edge trading bot designed
+          for speed, precision, and maximum efficiency. With its lightning-fast
+          execution and user-friendly interface, Utopia gives you the edge you
+          need to trade at your best.
         </h1>
         <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 items-start justify-between gap-8">
           <article className="p-8 flex flex-col gap-8 bg-[#121228] cardFeatures">
