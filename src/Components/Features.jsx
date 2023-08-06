@@ -18,7 +18,7 @@ const Features = () => {
           execution and user-friendly interface, Utopia gives you the edge you
           need to trade at your best.
         </h1>
-        <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 items-start justify-between gap-8">
+        <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 items-stretch justify-between gap-8">
           <article className="p-8 flex flex-col gap-8 bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={speed} alt="" />
@@ -57,6 +57,19 @@ const Features = () => {
               <br />
             </p>
           </article>
+        </div>{" "}
+        <h1 className="">
+          <div className="max-w-[976px] text-center text-white text-[32px] font-semibold tracking-wide">
+            UB is the goverance token for Utopia DAO, Revenue Mechanism
+            andRedistributed Revenue
+          </div>
+        </h1>
+        <h1 className="">
+          <div className="max-w-[976px] text-center text-white text-[32px] font-semibold tracking-wide">
+            Benefits to holding UB
+          </div>
+        </h1>
+        <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 items-stretch justify-between gap-8">
           <article className="p-8 tracking-[0.3px] flex flex-col gap-8 self-start bg-[#121228] cardFeatures">
             <h1 className="flex font-bold items-center gap-6 text-xl">
               <img src={dao} alt="" />
@@ -170,7 +183,7 @@ const Features = () => {
               </ul>
             </article>
           </div>
-        </div>{" "}
+        </div>
       </div>
     </section>
   );
