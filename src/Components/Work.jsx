@@ -113,7 +113,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Website - Claim Page
+                  Website V2 - Claim Page
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
