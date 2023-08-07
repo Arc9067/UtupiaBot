@@ -6,7 +6,7 @@ import join from "../assets/join.svg";
 const Work = () => {
   return (
     <section
-      className="pt-14 md:pt-32 pb-14 w-full relative  text-white"
+      className="pt-14 md:pt-32 pb-24 w-full relative  text-white"
       id="work"
     >
       <div className="container gap-16 grid grid-cols-1 lg:grid-cols-2 justify-between items-center">
@@ -21,7 +21,7 @@ const Work = () => {
                 Market Research{" "}
               </div>
             </div>
-            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+            <div className=" justify-start items-center gap-4 inline-flex">
               <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                 <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
               </div>
@@ -29,7 +29,7 @@ const Work = () => {
                 Utopia Bot Development V0.1 (ALPHA Stage)
               </div>
             </div>
-            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+            <div className=" justify-start items-center gap-4 inline-flex">
               <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                 <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
               </div>
@@ -37,7 +37,7 @@ const Work = () => {
                 Testing & Debugging (BETA Stage)
               </div>
             </div>
-            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+            <div className=" justify-start items-center gap-4 inline-flex">
               <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                 <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
               </div>
@@ -45,7 +45,7 @@ const Work = () => {
                 Brand Design
               </div>
             </div>
-            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+            <div className=" justify-start items-center gap-4 inline-flex">
               <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                 <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
               </div>
@@ -53,7 +53,7 @@ const Work = () => {
                 Tokenomics Design
               </div>
             </div>
-            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+            <div className=" justify-start items-center gap-4 inline-flex">
               <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                 <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
               </div>
