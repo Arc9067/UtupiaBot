@@ -64,9 +64,6 @@ const Join = () => {
                   target="_blank"
                   className="flex-col justify-start items-start gap-1 inline-flex"
                 >
-                  <div className="text-black text-xs font-normal leading-none tracking-tight">
-                    Launch UTOPIABot on
-                  </div>
                   <div className="text-black text-base font-bold leading-snug tracking-tight">
                     TELEGRAM
                   </div>
