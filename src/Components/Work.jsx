@@ -65,17 +65,11 @@ const Work = () => {
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Website Launch (V1 Minimal functionality)
                 </div>
               </div>
               <div className="justify-start items-start gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Marketing (Socials)
                 </div>
@@ -85,57 +79,26 @@ const Work = () => {
           <article className="flex flex-col gap-4">
             <div className=" flex-col justify-start items-start gap-5 inline-flex">
               <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Launch V1.0 (Public Version)
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Launch $UB (Uniswap V2)
                 </div>
               </div>
               <div className="justify-start items-start gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-start flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Launch Utopia DAO (Web & Tg implementation) Website - Claim
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Launch Utopia DAO (Web & Tg implementation) Website - Claim
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
-                <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Page First Scheduled Update v1.1
-                </div>
-              </div>
-              <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
-                <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Page First Scheduled Update v1.1
-                </div>
-              </div>
-              <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
-                  <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
-                </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
                   Page First Scheduled Update v1.1
                 </div>
