@@ -29,6 +29,12 @@ const Header = () => {
           >
             Twitter
           </a>
+          <a
+            href="https://www.youtube.com/@utopiabot"
+            className="text-white cursor-pointer text-base font-normal leading-snug tracking-tight"
+          >
+            Youtube
+          </a>
         </a>
       </nav>
     </header>
