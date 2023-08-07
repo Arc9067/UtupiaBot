@@ -119,7 +119,8 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Tax:</span> 5/5%
+                <span className="font-bold">Tax:</span> 1% Rewards | 1% Liqudity
+                Pool | 3% Development
               </div>
             </li>
 
