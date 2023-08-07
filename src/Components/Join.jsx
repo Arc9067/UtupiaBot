@@ -9,7 +9,7 @@ const Join = () => {
             Wanna Try UtopiaBot Out?
           </h1>
           <p className="text-white text-xl font-normal leading-7 tracking-tight">
-            Join the closed beta now!
+            Launch utupia Sniper Bot
           </p>
           <div className=" justify-start items-start gap-3 flex-col md:flex-row flex">
             <div className="w-[226px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex">
