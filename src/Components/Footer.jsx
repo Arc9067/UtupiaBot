@@ -1,5 +1,6 @@
 import React from "react";
 import footerLogo from "../assets/footerLogo.svg";
+import youtube from "../assets/youtube.svg";
 
 const Footer = () => {
   return (
@@ -119,6 +120,18 @@ const Footer = () => {
               </div>
               <div className="text-white text-xl font-normal leading-[33.60px] tracking-wide">
                 Twitter
+              </div>
+            </a>
+            <a
+              href="https://www.youtube.com/@utopiabot"
+              target="_blank"
+              className="justify-center items-center gap-2 flex"
+            >
+              <div className="w-[58.80px] h-12 relative">
+                <img src={youtube} alt="" />
+              </div>
+              <div className="text-white text-xl font-normal leading-[33.60px] tracking-wide">
+                Youtube
               </div>
             </a>
           </div>
