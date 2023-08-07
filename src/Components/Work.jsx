@@ -65,7 +65,7 @@ const Work = () => {
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
-                <div className="w-6 invisible h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-6  h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white  text-xl font-normal leading-loose tracking-tight">
@@ -73,7 +73,7 @@ const Work = () => {
                 </div>
               </div>
               <div className="justify-start items-start gap-4 inline-flex">
-                <div className="w-6 invisible h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-6  h-6 p-1 bg-green-500 rounded justify-center items-center flex">
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white  text-xl font-normal leading-loose tracking-tight">
