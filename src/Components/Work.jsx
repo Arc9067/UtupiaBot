@@ -21,7 +21,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Market Research{" "}
+                  Market Research
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
@@ -89,7 +89,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Launch V1.0 (Public Version)
+                  Utopia Bot Launch V1.0 (Public Version)
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
@@ -105,7 +105,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Launch Utopia DAO (Web & Tg implementation) Website - Claim
+                  Launch Utopia DAO (Web & Tg implementation)
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
@@ -113,7 +113,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Launch Utopia DAO (Web & Tg implementation) Website - Claim
+                  Website - Claim Page
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
@@ -121,7 +121,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Page First Scheduled Update v1.1
+                  First Scheduled Update v1.1
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
@@ -129,7 +129,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Page First Scheduled Update v1.1
+                  First DAO Update
                 </div>
               </div>
               <div className="justify-start items-center gap-4 inline-flex">
@@ -137,7 +137,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Page First Scheduled Update v1.1
+                  Integrating Bot Updates based on DAO feedback
                 </div>
               </div>
             </div>
