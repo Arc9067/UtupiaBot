@@ -143,6 +143,19 @@ const Work = () => {
             </div>
           </article>
         </div>
+
+        <a
+          href="https://www.youtube.com/@utopiabot"
+          target="_blank"
+          className="md:w-[400px] w-full h-[124px] pl-[83px] pr-[83.31px] py-7 bg-slate-900 rounded-2xl justify-center items-center inline-flex"
+        >
+          <div className="self-stretch justify-center items-center gap-[30.69px] inline-flex">
+            <img className="w-10 h-10" src={youtube} />
+            <div className="text-white text-xl font-bold leading-[33.60px] tracking-wide">
+              Watch The Video Guides
+            </div>
+          </div>
+        </a>
       </div>
     </section>
   );
