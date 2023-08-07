@@ -143,7 +143,7 @@ const Mics = () => {
                 <span className="font-bold">Reserve Distribution:</span> (10%)
               </div>
             </li>
-            {/* <li
+            <li
               className="flex items-center gap-4
           "
             >
@@ -159,11 +159,8 @@ const Mics = () => {
                   fill="white"
                 />
               </svg>
-              <div>
-                6% team (3 devs, 2% each excluded from reward) locked 90 days
-                before launch.
-              </div>
-            </li> */}
+              <div>6% team locked 90 days before launch</div>
+            </li>
             <li
               className="flex items-center gap-4
           "
