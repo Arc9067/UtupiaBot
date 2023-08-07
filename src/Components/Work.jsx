@@ -10,60 +10,92 @@ const Work = () => {
       id="work"
     >
       <div className="container gap-16 grid grid-cols-1 lg:grid-cols-2 justify-between items-center">
-        <article className="">
-          <h1 className="text-white text-5xl font-bold leading-[67.20px] tracking-wide">
-            How Does It Work?
-          </h1>
-          <p className="max-w-[456px] text-white text-xl font-normal leading-loose tracking-tight">
-            Setting up your Utopia Bot is quite straightforward. Simply interact
-            with the bot on Telegram and you're good to go.
-          </p>
-        </article>
-
-        <div className="w-full justify-start items-center gap-4 inline-flex flex-col md:flex-row">
-          <a
-            href=""
-            className="pl-[44.12px] w-full pr-[44.88px] pt-[78px] pb-[78.31px] bg-[#121228] rounded-2xl flex-col justify-center items-center inline-flex"
-          >
-            <div className="self-stretch flex-col justify-start items-start gap-[30.69px] inline-flex">
-              <img className="w-10 h-10" src={youtube} />
-              <div className="text-white text-[26.54px] font-bold leading-[37.16px] tracking-wide">
-                Watch The
-                <br />
-                Video Guides
+        <article className="flex flex-col gap-10">
+          <h1 className="text-3xl font-bold capitalize">project development</h1>
+          <div className=" flex-col justify-start items-start gap-5 inline-flex">
+            <div className="self-stretch justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Market Research{" "}
               </div>
             </div>
-          </a>
-          <div className="flex-col w-full justify-start items-start gap-[12.44px] inline-flex">
-            <a
-              href="https://utopiabot.gitbook.com/"
-              target="_blank"
-              className="pl-[31.54px] w-full pr-[30.46px] pt-[79.62px] pb-[76.68px] bg-[#121228] rounded-2xl flex-col justify-center items-center flex"
-            >
-              <div className="self-stretch flex-col justify-start items-start gap-[30.69px] inline-flex">
-                <img className="w-10 h-10" src={gitBook} />
-                <div className="text-white text-[26.54px] font-bold leading-[37.16px] tracking-wide">
-                  Read Full
-                  <br />
-                  Documentation
-                </div>
+            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
               </div>
-            </a>
-            <a
-              href="https://t.me/utopiabotportal"
-              target="_blank"
-              className="pl-[50.12px] w-full pr-[62.88px] pt-[76.62px] pb-[73.68px] bg-[#121228] rounded-2xl flex-col justify-center items-center flex"
-            >
-              <div className="self-stretch w-full flex-col justify-start items-start gap-[30.69px] inline-flex">
-                <img className="w-[46px] h-[46px]" src={join} />
-                <div className="text-white text-[26.54px] font-bold leading-[37.16px] tracking-wide">
-                  Join The <br />
-                  Community
-                </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Utopia Bot Development V0.1 (ALPHA Stage)
               </div>
-            </a>
+            </div>
+            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Testing & Debugging (BETA Stage)
+              </div>
+            </div>
+            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Brand Design
+              </div>
+            </div>
+            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Tokenomics Design
+              </div>
+            </div>
+            <div className="w-[584px] justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Marketing Plan
+              </div>
+            </div>
+            <div className="justify-start items-center gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="text-white text- font-normal leading-loose tracking-tight">
+                Website Launch (V1 Minimal functionality)
+              </div>
+            </div>
+            <div className="justify-start items-start gap-4 inline-flex">
+              <div className="w-6 h-6 p-1 bg-green-500 rounded justify-center items-center flex">
+                <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
+              </div>
+              <div className="grow shrink basis-0 text-white text- font-normal leading-loose tracking-tight">
+                Marketing (Socials) Utopia Bot Launch V1.0 (Public Version)
+                Launch $UB (Uniswap V2) Launch Utopia DAO (Web & Tg
+                implementation) Website - Claim Page First Scheduled Update v1.1
+                First DAO Update Integrating Bot Updates based on DAO feedback
+              </div>
+            </div>
           </div>
-        </div>
+        </article>
+
+        <a
+          href="https://www.youtube.com/@utopiabot"
+          className="w-[269px] mx-auto h-[301px] pl-[44.12px] pr-[44.88px] pt-[78px] pb-[78.31px] bg-slate-900 rounded-2xl flex-col justify-center items-center inline-flex"
+        >
+          <div className="self-stretch flex-col justify-start items-start gap-[30.69px] inline-flex">
+            <img className="w-10 h-10" src={youtube} />
+            <div className="text-white text-[26.54px] font-bold leading-[37.16px] tracking-wide">
+              Watch The
+              <br />
+              Video Guides
+            </div>
+          </div>
+        </a>
       </div>
     </section>
   );
