@@ -77,7 +77,7 @@ const Work = () => {
                   <div className="w-4 h-4 relative flex-col justify-start items-start flex" />
                 </div>
                 <div className="text-white text-xl font-normal leading-loose tracking-tight">
-                  Marketing (Socials) Utopia Bot
+                  Marketing (Socials)
                 </div>
               </div>
             </div>
