@@ -141,7 +141,7 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Reserve Distribution:</span> (10%)
+                <span className="font-bold">Reserve Distribution:</span> 10%
               </div>
             </li>
             <li
