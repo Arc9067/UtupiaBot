@@ -127,9 +127,7 @@ const Footer = () => {
               target="_blank"
               className="justify-center items-center gap-2 flex"
             >
-              <div className="w-[58.80px] h-12 relative">
-                <img src={youtube} alt="" />
-              </div>
+              <img src={youtube} alt="" />
               <div className="text-white text-xl font-normal leading-[33.60px] tracking-wide">
                 Youtube
               </div>
