@@ -73,48 +73,6 @@ const Join = () => {
                 </a>
               </div>
             </div>
-            <a
-              href="https://twitter.com/Utopiabots"
-              target="_blank"
-              className="w-[226px] h-[59px] px-[21px] py-2 bg-white rounded-full flex-col justify-center items-center gap-2.5 inline-flex"
-            >
-              <div className="justify-center items-center gap-3 inline-flex">
-                <div className="w-[29.40px] h-6 relative">
-                  <svg
-                    width="30"
-                    height="25"
-                    viewBox="0 0 30 25"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <g clip-path="url(#clip0_2092_1238)">
-                      <path
-                        d="M29.694 3.42258C28.5932 3.91024 27.4256 4.23035 26.23 4.37224C27.4753 3.62583 28.4315 2.44386 28.8818 1.03555C27.6979 1.73808 26.4027 2.23306 25.052 2.49909C23.9518 1.327 22.3845 0.594482 20.6497 0.594482C17.3188 0.594482 14.6183 3.29488 14.6183 6.62549C14.6183 7.09825 14.6717 7.5585 14.7745 8.00003C9.76206 7.74843 5.31804 5.3474 2.34331 1.69848C1.82426 2.58924 1.52685 3.62537 1.52685 4.73052C1.52685 6.823 2.59169 8.66893 4.20991 9.75054C3.25215 9.72054 2.31546 9.46186 1.47804 8.99609C1.4777 9.02135 1.4777 9.04662 1.4777 9.07199C1.4777 11.9941 3.55663 14.4318 6.31559 14.9859C5.42746 15.2274 4.49587 15.2628 3.59199 15.0892C4.35942 17.4853 6.58683 19.2289 9.22591 19.2777C7.16179 20.8953 4.56118 21.8595 1.73561 21.8595C1.24872 21.8595 0.768722 21.8309 0.296875 21.7752C2.96593 23.4865 6.13611 24.4849 9.54204 24.4849C20.6357 24.4849 26.7019 15.2948 26.7019 7.32493C26.7019 7.06334 26.6962 6.80325 26.6845 6.54464C27.8652 5.69108 28.8843 4.63385 29.694 3.42258Z"
-                        fill="#55ACEE"
-                      />
-                    </g>
-                    <defs>
-                      <clipPath id="clip0_2092_1238">
-                        <rect
-                          width="29.4"
-                          height="24"
-                          fill="white"
-                          transform="translate(0.296875 0.5)"
-                        />
-                      </clipPath>
-                    </defs>
-                  </svg>
-                </div>
-                <div className="flex-col justify-start items-start gap-1 inline-flex">
-                  <div className="text-black text-xs font-normal leading-none tracking-tight">
-                    Follow UTOPIABot on
-                  </div>
-                  <div className="text-black text-base font-bold leading-snug tracking-tight">
-                    TWITTER
-                  </div>
-                </div>
-              </div>
-            </a>
           </div>
         </div>
       </div>
