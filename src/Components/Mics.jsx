@@ -55,27 +55,6 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Price on listing: </span>{" "}
-                0.000000022 ETH / 1 UB
-              </div>
-            </li>
-            <li
-              className="flex items-center gap-4
-          "
-            >
-              <svg
-                width="20"
-                height="20"
-                viewBox="0 0 20 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M17.9414 5.43945L7.50195 15.8887L2.0625 10.4395L2.94141 9.56055L7.50195 14.1113L17.0625 4.56055L17.9414 5.43945Z"
-                  fill="white"
-                />
-              </svg>
-              <div>
                 <span className="font-bold">Max Buy:</span> 2%
               </div>
             </li>
@@ -118,66 +97,6 @@ const Mics = () => {
               <div>
                 <span className="font-bold">Tax: </span>5% buy/sell | Tax Split:
                 5% - (1% to Reward Pool) & (1% to Liquidity Pool)
-              </div>
-            </li>
-
-            <li
-              className="flex items-center gap-4
-          "
-            >
-              <svg
-                width="20"
-                height="20"
-                viewBox="0 0 20 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M17.9414 5.43945L7.50195 15.8887L2.0625 10.4395L2.94141 9.56055L7.50195 14.1113L17.0625 4.56055L17.9414 5.43945Z"
-                  fill="white"
-                />
-              </svg>
-              <div>
-                <span className="font-bold">Reserve Distribution:</span> 10%
-              </div>
-            </li>
-            <li
-              className="flex items-center gap-4
-          "
-            >
-              <svg
-                width="20"
-                height="20"
-                viewBox="0 0 20 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M17.9414 5.43945L7.50195 15.8887L2.0625 10.4395L2.94141 9.56055L7.50195 14.1113L17.0625 4.56055L17.9414 5.43945Z"
-                  fill="white"
-                />
-              </svg>
-              <div>6% team locked 90 days before launch</div>
-            </li>
-            <li
-              className="flex items-center gap-4
-          "
-            >
-              <svg
-                width="20"
-                height="20"
-                viewBox="0 0 20 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M17.9414 5.43945L7.50195 15.8887L2.0625 10.4395L2.94141 9.56055L7.50195 14.1113L17.0625 4.56055L17.9414 5.43945Z"
-                  fill="white"
-                />
-              </svg>
-              <div>
-                4% marketing (public sheet in google drive with every expenses
-                on marketing)
               </div>
             </li>
           </ul>
