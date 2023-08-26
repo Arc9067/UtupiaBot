@@ -13,9 +13,6 @@ const Mics = () => {
             <h1 className="text-center text-white text-2xl md:text-3xl font-bold leading-[44.80px] tracking-wide">
               Total supply: 100.000.000 mil
             </h1>
-            <h1 className="text-center text-white text-2xl md:text-3xl font-bold leading-[44.80px] tracking-wide">
-              Circulating supply: 90% (90mil)
-            </h1>
           </div>
 
           <ul className=" flex flex-col gap-5 mt-16">
@@ -36,9 +33,9 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Liq ETH:</span> 2 eth locked after
-                launch 90 days in Unicrypt (at higher mcaps lock will be
-                extended)
+                <span className="font-bold"> Liq ETH: </span> 2 eth locked after
+                2 ETH locked for 30 days in Unicrypt (at higher mcaps lock will
+                be extended)
               </div>
             </li>
             <li
@@ -119,8 +116,8 @@ const Mics = () => {
                 />
               </svg>
               <div>
-                <span className="font-bold">Tax: 5/5%</span> 1% Rewards | 1%
-                Liqudity Pool | 3% Development
+                <span className="font-bold">Tax: </span>5% buy/sell | Tax Split:
+                5% - (1% to Reward Pool) & (1% to Liquidity Pool)
               </div>
             </li>
 
