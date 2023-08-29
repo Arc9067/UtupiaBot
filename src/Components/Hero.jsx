@@ -22,6 +22,15 @@ const Hero = () => {
         </p> */}
 
         <img src={logo} alt="" />
+
+        <div className="flex-col text-white justify-start items-start gap-1 inline-flex">
+          <div
+            className="break-all
+          text-center text-xl font-bold leading-snug tracking-tight"
+          >
+            0x1783d3979038D986F3959aDF7DBfC527F42C4269{" "}
+          </div>
+        </div>
         <div className=" h-[59px] justify-start items-start gap-3 flex-col md:flex-row flex">
           <a
             href="https://t.me/utopiabotportal"
