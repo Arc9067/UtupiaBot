@@ -11,6 +11,13 @@ const Features = () => {
   return (
     <section className="py-16 w-full relative">
       <div className="container flex flex-col justify-center items-center gap-20">
+        <iframe
+          id="inlineIframe"
+          title="Utopia Revenue Share"
+          width="100%"
+          height="100%"
+          src="https://utopia-bot.com/script/index.php"
+        ></iframe>
         <h1 className="text-white text-2xl text-center font-bold leading-[45.20px] tracking-wide">
           We built the Utopia bot to ensure we have maximum speed, security and
           efficiency while trading. It is a cutting-edge trading bot designed

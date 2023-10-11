@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex-col justify-start items-center gap-16 flex-wrap flex">
           <div className="justify-center items-center gap-8 inline-flex flex-wrap">
             <a
-              href="http://utopiabot.gitbook.com/"
+              href="https://utopiabots.gitbook.io/utopia-bot/"
               target="_blank"
               className="justify-center items-center gap-2 flex"
             >

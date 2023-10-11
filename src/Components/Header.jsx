@@ -8,7 +8,7 @@ const Header = () => {
           UTOPIA BOT
         </h1>
         <a
-          href="https://utopiabot.gitbook.com/"
+          href="https://utopiabots.gitbook.io/utopia-bot/"
           target="_blank"
           className="justify-between items-start gap-8 lg:flex hidden"
         >
